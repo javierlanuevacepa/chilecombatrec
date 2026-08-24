@@ -7,9 +7,9 @@ Se pedirá rut de los coach encargados de la escuela y de los estudiantes pero n
 El sistema desde la vista de coaches tendrá una opción para buscar oponentes para el estudiante deseado en donde buscará estudiantes de otras escuelas sin mostrar datos sensibles y dará la información de contacto de la escuela del estudiante.
 
 # Tecnologías utilizadas
-Frontend: React
-Backend: Node.js
-Motor de base de datos: MySQL
+Frontend: React <br>
+Backend: Node.js <br>
+Motor de base de datos: MySQL <br>
 
 # Instrucciones para ejecutar el proyecto
 
@@ -19,7 +19,7 @@ iniciará el proyecto en su enteridad.
 
 # Integrantes del proyecto
 
-Javier González: Desarrollador Backend
+Javier González: Desarrollador Backend <br>
 Benjamín Quintanilla: Desarrollador FrontEnd
 
 # Metodología de trabajo del equipo
