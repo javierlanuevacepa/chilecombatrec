@@ -24,8 +24,8 @@ Benjamín Quintanilla: Desarrollador FrontEnd
 
 # Metodología de trabajo del equipo
 
-Metodología ágil
+Metodología ágil SCRUM
 
 # Arquitectura de la solución
 
-Un sistema web MVC.
+Sistema web Modelo-Vista-Controlador (MVC).
